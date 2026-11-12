@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c1",
+    "type": "direct",
+    "participantIds": ["u1", "u2"],
+    "unreadCount": 2,
+    "createdAt": "2026-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "c2",
+    "type": "direct",
+    "participantIds": ["u1", "u3"],
+    "unreadCount": 0,
+    "createdAt": "2026-10-03T10:00:00.000Z"
+  },
+  {
+    "id": "c3",
+    "type": "direct",
+    "participantIds": ["u1", "u5"],
+    "unreadCount": 1,
+    "createdAt": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "id": "c4",
+    "type": "group",
+    "name": "Design Team",
+    "avatarUrl": "https://i.pravatar.cc/150?img=68",
+    "participantIds": ["u1", "u2", "u4", "u6"],
+    "unreadCount": 3,
+    "createdAt": "2026-09-20T10:00:00.000Z"
+  },
+  {
+    "id": "c5",
+    "type": "group",
+    "name": "Weekend Trip",
+    "avatarUrl": "https://i.pravatar.cc/150?img=66",
+    "participantIds": ["u1", "u3", "u5", "u7"],
+    "unreadCount": 0,
+    "createdAt": "2026-09-25T10:00:00.000Z"
+  },
+  {
+    "id": "c6",
+    "type": "direct",
+    "participantIds": ["u1", "u4"],
+    "unreadCount": 0,
+    "createdAt": "2026-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "c7",
+    "type": "group",
+    "name": "Product Launch",
+    "avatarUrl": "https://i.pravatar.cc/150?img=60",
+    "participantIds": ["u1", "u2", "u3", "u4", "u6", "u7"],
+    "unreadCount": 5,
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  }
+]
